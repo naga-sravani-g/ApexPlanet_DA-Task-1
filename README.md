@@ -1,6 +1,7 @@
 Data_Immersion_and_Wrangling
 
 Description
+
 This project is about data immersion and wrangling.
 
 Features
@@ -9,6 +10,7 @@ Features
 - Exploratory Data Analysis
 
 Technologies Used
+
 - Python
 - Pandas
 - NumPy
